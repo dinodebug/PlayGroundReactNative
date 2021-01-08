@@ -1,3 +1,4 @@
+// https://www.youtube.com/watch?v=frNf5VMGjsk
 import * as React from 'react';
 import {
   TouchableOpacity,
