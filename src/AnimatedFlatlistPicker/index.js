@@ -1,4 +1,5 @@
 // https://www.youtube.com/watch?v=frNf5VMGjsk
+// https://github.com/catalinmiron/react-native-animated-flatlist-picker
 import * as React from 'react';
 import {
   TouchableOpacity,
