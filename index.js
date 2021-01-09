@@ -3,7 +3,7 @@
  */
 
 import {AppRegistry} from 'react-native';
-import App from './src/MovieFlatlistAnimations';
+import App from './src/HeadphoneFlatlistSlider';
 import {name as appName} from './app.json';
 
 AppRegistry.registerComponent(appName, () => App);
